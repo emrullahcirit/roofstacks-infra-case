@@ -27,6 +27,8 @@ To fix that i create a backend-config resource and update the path as "/WeatherF
 
 You can test the application on http://34.120.2.10/WeatherForecast
 
+Yaml files are under infra/ and to one click installation you can run setup.sh
+
 I draw a small diagram to show flow. 
 
 ![Diagram](diagram.png)
